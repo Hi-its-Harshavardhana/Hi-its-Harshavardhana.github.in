@@ -7,6 +7,7 @@
 
 # Experience Summary
 
-Certified Professional Scrum Master PSM1 | PSM2 from scrum.org, Certified SAFe® 5 Agilist from Scaled agile. Agile Project Manager, Agile Process Coaching and Agile Requirement analysis are some of my other core competencies.
+
+Certified Professional Scrum Master PSM1/PSM2 from scrum.org, Certified SAFe® 5 Agilist from Scaled agile. Agile Project Manager, Agile Process Coaching and Agile Requirement analysis are some of my other core competencies.
 
 Agile scrum master with experience managing large enterprise software development projects that meet demanding time restrains and exceed all expectations. Accomplished at introducing and facilitating the adoption of Scrum principles, removing impediments and fostering self-organization. Results-oriented, decisive leader with proven success in establishing and cultivating relationships to build team focus and flexibility
